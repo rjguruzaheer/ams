@@ -1,6 +1,10 @@
 .pathanpfp {
-  padding-left: 775px;
-  padding-right: 775px;
+display: flex;
+justify-content: center;
+}
+
+.title {
+  text-align: center;
 }
 
 .t3 {
