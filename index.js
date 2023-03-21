@@ -5,3 +5,7 @@ document.querySelector(".tg").onclick = function () {
 document.querySelector(".box1").onclick = function () {
     location.href = "pathan.html"
 };
+
+document.querySelector(".box2").onclick = function () {
+    location.href = "svsh.html"
+};
