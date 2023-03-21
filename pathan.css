@@ -4,6 +4,13 @@
 }
 
 .t3 {
-  padding-left: 775px;
-  padding-right: 775px;
+ text-align: center;
+}
+
+.fakebtn {
+  box-sizing: border-box;
+}
+
+.realbtn {
+align-content: center;
 }
