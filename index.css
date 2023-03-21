@@ -1,23 +1,143 @@
-
-.bacg {
-  padding-left: 750px;
-  padding-right: 750px;
+.top-h1 {
+    font-family: first-black;
+    margin: 0;
+  font-size: 2.5rem;
+  color: lawngreen;
+  padding-top: 90px;
 }
 
-.t1 {
-  padding-left: 775px;
-  padding-right: 775px;
 
+.container {
+  position: relative;
+  width: 1200px;
+  height: 300px;
+  margin: 240px auto;
 }
 
-.text1 {
-  text-align: center;
-  text-indent: 50px;
+.container .box1 {
+  position: relative;
+  width: calc(400px - 30px);
+  height: calc(300px - 30px);
+  background: white;
+  float: left;
+  margin: 15px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 10px;
 }
 
-.click1 {
- align-content: center; 
-  padding-left: 775px;
-  padding-right: 775px;
+.top-h1 {
+    font-family: first-black;
+    margin: 0;
+  font-size: 2.5rem;
+  color: lawngreen;
+  padding-top: 90px;
+}
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.font {
+    font-family: first-medium;
+}
+
+.quote {
+    font-family: first-bold;
+    margin: 0;
+    color: red;
+}
+
+.top-1 {
+    background-color: #393e46;
+    height: 300px;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+}
+
+.ctl {
+    text-align: left;
+}
+
+
+.ctb {
+    text-align: center;
+}
+
+.top {
+text-align: center;
+vertical-align: middle;
+}
+
+.apps {
+    text-align: center;
+}
+
+.apps-h2 {
+    text-decoration: underline;
+    font-family: first-bold;
+    line-height: 1.5;
+    word-spacing: 2px;
+    font-size: 3rem;
+}
+
+.cont1 {
+    text-align: center;
+}
+
+.conta {
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+.more {
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    font-family: first-medium;
+    margin-left: 100px;
+}
+
+.more:hover {
+    color: grey;
+}
+.footer {
+    background-color: #393e46;
+    text-align: center;
+}
+
+.fic, .fic:hover {
+    margin-right: 20px;
+    color: inherit;
+    background-color: inherit;
+}
+
+.copyright {
+    color: white;
+    margin-bottom: 0;
+    font-family: first-regular;
+    height: 40px;
+}
+
+
+@font-face {
+    font-family: first-black;
+    src: url(Montserrat-Black.ttf);
+}
+
+@font-face {
+    font-family: first-bold;
+    src: url(Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: first-medium;
+    src: url(Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: first-regular;
+    src: url(Montserrat-Regular.ttf);
 }
