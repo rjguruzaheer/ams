@@ -1,5 +1,5 @@
 document.querySelector(".tg").onclick = function () {
-    location.href = "https://telegram.me/Anime_Catalogue"
+    location.href = "https://telegram.me/AlfeaonNetwork"
 };
 
 document.querySelector(".box1").onclick = function () {

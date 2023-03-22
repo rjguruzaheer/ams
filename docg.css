@@ -1,0 +1,24 @@
+.pathanpfp {
+display: flex;
+justify-content: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.wo{
+ text-align: center;
+}
+
+.t3 {
+ text-align: center;
+}
+
+.fakebtn {
+  box-sizing: border-box;
+}
+
+.realbtn {
+align-content: center;
+}
