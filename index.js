@@ -9,7 +9,3 @@ document.querySelector(".box1").onclick = function () {
 document.querySelector(".box2").onclick = function () {
     location.href = "svsh.html"
 };
-
-document.querySelector(".box3").onclick = function () {
-  location.href = "docg.html"
-};

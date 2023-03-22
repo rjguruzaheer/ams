@@ -38,18 +38,6 @@
   border-radius: 10px;
 }
 
-.container .box3 {
-  position: relative;
-  width: calc(400px - 30px);
-  height: calc(300px - 30px);
-  background: white;
-  float: left;
-  margin: 15px;
-  box-sizing: border-box;
-  overflow: hidden;
-  border-radius: 10px;
-}
-
 .top-h1 {
     font-family: first-black;
     margin: 0;
