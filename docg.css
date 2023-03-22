@@ -22,3 +22,21 @@ justify-content: center;
 .realbtn {
 align-content: center;
 }
+
+.footer {
+    background-color: #393e46;
+    text-align: center;
+}
+
+.fic, .fic:hover {
+    margin-right: 20px;
+    color: inherit;
+    background-color: inherit;
+}
+
+.copyright {
+    color: white;
+    margin-bottom: 0;
+    font-family: first-regular;
+    height: 40px;
+}
