@@ -7,5 +7,5 @@ document.querySelector(".box1").onclick = function () {
 };
 
 document.querySelector(".box2").onclick = function () {
-    location.href = "svsh.html"
+    location.href = "jw4.html"
 };
